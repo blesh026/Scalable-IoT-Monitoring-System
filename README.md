@@ -27,18 +27,23 @@ This project is an IoT-based monitoring system that collects real-time data from
 
 ## 📷 Project Screenshot
 
-![Grafana Dashboard](Scalable-IoT-Monitoring-System/IMAGES/grafana.png)
+<h3>Grafana Dashboard</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/grafana.png" width="600" alt="Grafana Dashboard">
 
-![Setup Image](Scalable-IoT-Monitoring-System/IMAGES/IM6.jpeg)
+<h3>Setup Image</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/IM6.jpeg" width="600" alt="Setup Image">
 
-![Thinking Process](Scalable-IoT-Monitoring-System/IMAGES/think.png)
+<h3>Thinking Process</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/think.png" width="600" alt="Thinking Process">
 
-![Docker Setup](Scalable-IoT-Monitoring-System/IMAGES/docker1.png)
+<h3>Docker Setup</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/docker1.png" width="600" alt="Docker Setup">
 
-![System image](Scalable-IoT-Monitoring-System/IMAGES/IM7.jpeg)
+<h3>System Image</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/IM7.jpeg" width="600" alt="System Image">
 
-![Container](Scalable-IoT-Monitoring-System/IMAGES/container.png)
-
+<h3>Container</h3>
+<img src="./Scalable-IoT-Monitoring-System/IMAGES/container.png" width="600" alt="Container">
 
 
 ## 📄 Project Report
