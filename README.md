@@ -35,7 +35,8 @@ This project is an IoT-based monitoring system that collects real-time data from
 
 ![Docker Setup](IMAGES/docker1.png)
 
-![System image](IMAGES/IM3.png)
+![System image](IMAGES/IM3.jpeg)
+
 ![Container](IMAGES/container.png)
 
 
