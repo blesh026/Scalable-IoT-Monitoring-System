@@ -25,7 +25,11 @@ This project is an IoT-based monitoring system that collects real-time data from
 - Report PDF → Detailed documentation
 
 ## 📷 Output / Screenshots
-(Add images from IMAGES folder here later)
+(IMAGES/grafana.png)
+(IMAGES/IM1.jpeg)
+(IMAGES/think.png)
+(IMAGES/docker1.png)
+(IMAGES/IM3.png)
 
 ## 📄 Project Report
 Included in this repository
