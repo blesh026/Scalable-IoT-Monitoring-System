@@ -24,8 +24,8 @@ This project is an IoT-based monitoring system that collects real-time data from
 - IMAGES → Project images / diagrams
 - Report PDF → Detailed documentation
 
-## 📷 Output / Screenshots
-## 📷 Project Screenshots
+
+## 📷 Project Screenshot
 
 ![Grafana Dashboard](IMAGES/grafana.png)
 
