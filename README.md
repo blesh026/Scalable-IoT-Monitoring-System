@@ -27,17 +27,17 @@ This project is an IoT-based monitoring system that collects real-time data from
 
 ## 📷 Project Screenshot
 
-![Grafana Dashboard](IMAGES/grafana.png)
+![Grafana Dashboard](Scalable-IoT-Monitoring-System/IMAGES/grafana.png)
 
-![Setup Image](IMAGES/IM1.jpeg)
+![Setup Image](Scalable-IoT-Monitoring-System/IMAGES/IM6.jpeg)
 
-![Thinking Process](IMAGES/think.png)
+![Thinking Process](Scalable-IoT-Monitoring-System/IMAGES/think.png)
 
-![Docker Setup](IMAGES/docker1.png)
+![Docker Setup](Scalable-IoT-Monitoring-System/IMAGES/docker1.png)
 
-![System image](IMAGES/IM3.jpeg)
+![System image](Scalable-IoT-Monitoring-System/IMAGES/IM7.jpeg)
 
-![Container](IMAGES/container.png)
+![Container](Scalable-IoT-Monitoring-System/IMAGES/container.png)
 
 
 
